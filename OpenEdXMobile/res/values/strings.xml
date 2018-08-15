@@ -141,7 +141,7 @@
     <!-- FAQ screen title -->
     <string name="faq_txt">FAQ</string>
     <!-- Contacts screen title -->
-    <string name="contacts_txt">Contacts</string>
+    <string name="contacts_txt">Contact us</string>
     <!-- Settings screen version -->
     <string name="label_version">App Version</string>
     <!-- Button text to show user Settings screen -->

@@ -376,7 +376,8 @@ android {
     }
 
     lintOptions {
-        abortOnError true
+        checkReleaseBuilds false
+        abortOnError false
         showAll true
         warning 'TypographyQuotes', 'InvalidPackage'
         error 'StopShip', 'ContentDescription'
